@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ⚙️ Usage
 Run the script from the terminal:
 
-python main.py
+python 71.py
 
 You can customize:
 
