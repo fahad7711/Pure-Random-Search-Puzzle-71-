@@ -1,5 +1,8 @@
+<img width="1899" height="968" alt="Progress" src="https://github.com/user-attachments/assets/cd51a55f-b5d6-4037-9010-a4e6c5647a40" />
 # Pure-Random-Search-Puzzle-71-
 This script performs a brute-force key search to find a Bitcoin private key whose public key hash matches a target RIPEMD-160 value. It does this by:  Randomly generating private keys in a given range.  Converting each private key to a public key.  Hashing the public key (SHA-256 → RIPEMD-160).  Comparing the result to a known target hash.
+Program use threads of cpu. 12 cores speed 37000-39000 per second.
+Also shows the progress after every 100000 attempts.
 📦 Requirements
 🐍 Python Version
 Python 3.8+ is recommended (for full bit library compatibility and tqdm/colorama formatting).
