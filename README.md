@@ -63,9 +63,9 @@ python 71.py
 
 You can customize:
 
-The target RIPEMD-160 hash
+The target RIPEMD-160 hash (hash160)
 
-The private key range
+The private key range (in decimals)
 
 Change them directly in 71.py:
 
