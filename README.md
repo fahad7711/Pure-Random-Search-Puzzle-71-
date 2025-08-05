@@ -71,3 +71,24 @@ Change them directly in 71.py:
 
 The Program is under liscened MIT.
 ⚠️ **Educational Use Only** — This tool is for cryptographic research, keyspace learning, and developer curiosity. Brute-forcing Bitcoin addresses is computationally impractical due to the enormous keyspace.
+
+
+🧠 Educational Note
+The script uses brute-force logic and does not exploit any cryptographic vulnerabilities.
+
+It’s computationally unfeasible to find real Bitcoin keys this way — this tool is for learning purposes only.
+
+
+---
+
+## ⚠️ Legal Disclaimer
+
+This project is developed and shared strictly for **educational and research purposes**.
+
+> The purpose of this tool is to demonstrate and study how cryptographic key generation and hashing (SHA-256, RIPEMD-160) work in practice. It is not intended to be used for illegal activity or unethical behavior.
+
+- The Bitcoin network is **secure by design**, and brute-force attacks are computationally impractical.
+- The author of this project **does not condone** using this tool for attempting to compromise real wallets or systems.
+
+🛑 **Any misuse of this program is solely the responsibility of the user. The author is not liable for any damages or legal issues resulting from its use.**
+
